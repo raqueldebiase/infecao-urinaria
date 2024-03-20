@@ -1,4 +1,4 @@
-Projeto Infecções Urinárias<br>
+Projeto Infeções Urinárias<br>
 
 O projeto "Infecções Urinárias" foi desenvolvido durante meu período na empresa LPM Comunicação, onde atuei como web developer. O objetivo deste projeto era fornecer informações relevantes sobre infecções urinárias em um formato digital acessível e funcional.
 
