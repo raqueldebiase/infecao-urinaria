@@ -6,11 +6,15 @@ Tecnologias e ferramentas Utilizadas: <br>
 
 Durante o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
-Figma
-Foco no CSS e Elementos Gráficos
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>JQuery</li>
+  <li>Figma</li>
+</ul>
+
+Foco no CSS e Elementos Gráficos<br>
 
 Uma parte significativa do trabalho foi dedicada ao desenvolvimento do CSS para garantir que o site fosse não apenas funcional, mas também visualmente atraente e intuitivo para os usuários. Concentrei-me em criar elementos gráficos que ajudassem a transmitir informações de forma clara e eficaz, mesmo não sendo responsável pela escolha das cores e dos elementos.
 
