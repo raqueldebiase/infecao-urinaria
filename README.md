@@ -25,3 +25,8 @@ Além disso, trabalhei em estreita colaboração com a equipe de design, utiliza
 Este projeto representou uma oportunidade emocionante para explorar todo o potencial do CSS na criação de elementos gráficos que não apenas melhoraram a estética do site, mas também contribuíram para uma experiência de usuário excepcional.
 
 site: https://urinal.pt/
+
+![Captura de Tela 2024-03-26 às 16 35 48](https://github.com/raqueldebiase/infecao-urinaria/assets/94414829/d817baed-841a-4761-9988-ae668211ae25)
+![Captura de Tela 2024-03-26 às 16 35 57](https://github.com/raqueldebiase/infecao-urinaria/assets/94414829/07ad5ae0-70f8-4d02-b698-9e1de48b1590)
+![Captura de Tela 2024-03-26 às 16 36 07](https://github.com/raqueldebiase/infecao-urinaria/assets/94414829/60fc2d93-4d04-4368-9552-b6ba8e71743b)
+![Captura de Tela 2024-03-26 às 16 36 27](https://github.com/raqueldebiase/infecao-urinaria/assets/94414829/d465e7f4-bb6a-4a1b-aff5-5e72bbe73746)
